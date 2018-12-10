@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "properties": {
+    "description": "ALX 18.27 - "
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.5525047462,
+      45.341897076
+    ]
+  }
+}
